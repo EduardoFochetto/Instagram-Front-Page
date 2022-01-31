@@ -6,6 +6,9 @@ Página desenvolvida como parte de um desafio do bootcamp HTML Web Developer da 
 
 [Desafio](https://web.dio.me/project/recriando-a-pagina-inicial-do-instagram/learning/9c6e1506-e7c3-473f-8083-6aa4c53d1f45?back=/track/html-web-developer)
 
+# Sobre a página
+
+Foi adicionado uma funcionalidade Dark Mode na página.
 
 ## Contribua com o meu código
 
@@ -21,6 +24,9 @@ Page developed as part of a bootcamp challenge called HTML Web Developer from Di
 
 [Challenge](https://web.dio.me/track/html-web-developer)
 
+# About the page
+
+Dark mode feature has been added to the page.
 
 ## Contribute with my code
 
